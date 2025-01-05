@@ -93,10 +93,10 @@ This repo management a lists of papers that related to the development of the In
   In Game:  
   
 -[__2024/12__] Can Machines Think Like Humans? A Behavioral Evaluation of LLM-Agents in Dictator Games [paper](https://arxiv.org/abs/2410.21359)  
--[__2024/10__] Llm-based agent society investigation: Collaboration and confrontation in avalon gameplay [paper](https://arxiv.org/abs/2310.14985)
+-[__2024/10__] Llm-based agent society investigation: Collaboration and confrontation in avalon gameplay [paper](https://arxiv.org/abs/2310.14985)  
 -[__2024/04__] A Survey on Large Language Model-Based Game Agents [paper](https://arxiv.org/abs/2404.02039)  
--[__2024/03__] A survey on game playing agents and large models: Methods, applications, and challenges [paper](https://arxiv.org/abs/2403.10249)
--[__2024/03__] Do llm agents have regret? a case study in online learning and games [paper](https://arxiv.org/abs/2403.16843)
+-[__2024/03__] A survey on game playing agents and large models: Methods, applications, and challenges [paper](https://arxiv.org/abs/2403.10249)  
+-[__2024/03__] Do llm agents have regret? a case study in online learning and games [paper](https://arxiv.org/abs/2403.16843)  
 -[__2024/02__] Large Language Models and Games: A Survey and Roadmap [paper](https://arxiv.org/abs/2402.18659)  
 -[__2023/04__] Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions [paper](https://arxiv.org/abs/2304.02868)  
 
